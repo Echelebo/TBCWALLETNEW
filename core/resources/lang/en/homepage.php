@@ -1,0 +1,36 @@
+<?php
+
+return array (
+
+	'hm' => 'Home',
+  	'hm_contact' => 'Contact',
+  	'plan_landing' => 'Plans',
+  	'plan_landing_text' => 'Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. ',
+  	'faq1' => 'Lorem ipsum, or lipsum as it is sometimes known as dummy text ',
+  	'faq2' => 'Lorem ipsum, or lipsum as it is sometimes known as dummy text ',
+  	'faq3' => 'Lorem ipsum, or lipsum as it is sometimes known as dummy text ',
+  	'faq4' => 'Lorem ipsum, or lipsum as it is sometimes known as dummy text ',
+  	'faq5' => 'Lorem ipsum, or lipsum as it is sometimes known as dummy text ',
+  	'faq_ans1' => 'Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. ',
+  	'faq_ans2' => 'Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. ',
+  	'faq_ans3' => 'Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. ',
+  	'faq_ans4' => 'Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. ',
+  	'faq_ans5' => 'Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. ',
+  	'faqq' => 'Faqs',
+  	'faqs' => 'Frequently asked questions',
+  	'faqs_desc' => 'Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate.',
+  	'login_btn' => 'Login',
+  	'get_started' => 'Get Started',
+  	'hero_title' => 'Best investment platform',
+  	'hero_text' => 'Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&#8218;s De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with',
+  	'register' => 'Register',
+  	'abt_us' => 'What we do',
+  	'abt_us_text' => 'Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate.',
+  	'pckg' => 'Package',
+  	'days_spnt' => 'Days',
+  	'we_accept' => 'We accept',
+  	'cpyrght' => 'Copyright',
+  	'all_rght_resrvd' => 'All rights Reserved.',
+  	'abt_lnk' => 'About',
+
+);
